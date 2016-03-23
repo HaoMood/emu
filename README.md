@@ -9,7 +9,12 @@ C
 
 ## Developing Envoriment
 Ubuntu Linux
+
 Arm-based Embedded Systems
+
+arm-gcc
+
+ramdisk
 
 ## Note
 Documents are writen in Chinese.
