@@ -1,0 +1,6 @@
+all: server client
+CFLAGS = 
+%: %.c
+	gcc -o $@ $(CFLAGS) $^
+clean:
+	rm server client
