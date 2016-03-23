@@ -1,5 +1,5 @@
 # EMU
-Solution for Embedded System course, School of Electronic Science and Engineering, Nanjing University.
+Assignments of Embedded System course, School of Electronic Science and Engineering, Nanjing University.
 
 ## Course Page
 http://ese.nju.edu.cn/~pcl/emb14.html
