@@ -1,15 +1,15 @@
 # EMU
 Solution for Embedded System course, School of Electronic Science and Engineering, Nanjing University.
 
-# Course Page
+## Course Page
 http://ese.nju.edu.cn/~pcl/emb14.html
 
-# Language
+## Language
 C
 
-# Developing Envoriment
+## Developing Envoriment
 Ubuntu Linux
 Arm-based Embedded Systems
 
-# Note
+## Note
 Documents are writen in Chinese.
